@@ -1,4 +1,4 @@
-🔭 Full Stack Python, Django, C#, Angular, Typescript
+🔭 Full Stack Python, Django, Django Rest Framework, C#, Angular, Typescript
 
 <div align="center">
   <a href="https://github.com/henriquejdc">
