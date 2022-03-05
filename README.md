@@ -30,4 +30,6 @@
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   [![card](https://github-readme-stats.vercel.app/api/pin/?username=henriquejdc&repo=Hanan&theme=github_dark)](https://github.com/henriquejdc/Hanan) 
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=henriquejdc&repo=restProject_UnitTests&theme=github_dark)](https://github.com/henriquejdc/restProject_UnitTests) 
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=henriquejdc&repo=.NETWebAPI-Angular-EFCoreV2&theme=github_dark)](https://github.com/henriquejdc/.NETWebAPI-Angular-EFCoreV2) 
 </div>
