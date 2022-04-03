@@ -1,5 +1,15 @@
 🔭 Full Stack Python, Django, Django Rest Framework, C#, Angular, Typescript
 
+🖥️ Study and Knowledge
+
+I've been a programmer since I was 14 with Pascal and PHP for the Web.
+
+In my graduation I used C, C++, Java, Javascript, PHP and Python.
+
+Professionally I worked with PHP, Django, Django Rest Framework, Javascript and Angular.
+
+I have knowledge of SQL and Firebird databases.
+
 <div align="center">
   <a href="https://github.com/henriquejdc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquejdc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
