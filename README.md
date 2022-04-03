@@ -1,8 +1,6 @@
-🔭 
-# Full Stack Python, Django, Django Rest Framework, C#, Angular, Typescript
+# 🔭 Full Stack Python, Django, Django Rest Framework, C#, Angular, Typescript
 
-🖥️ 
-# Study and Knowledge
+# 🖥️ Study and Knowledge
 - I've been a programmer since I was 14 with Pascal and PHP for the Web.
 - In my graduation I used C, C++, Java, Javascript, PHP and Python.
 - Professionally I worked with PHP, Django, Django Rest Framework, Javascript and Angular.
