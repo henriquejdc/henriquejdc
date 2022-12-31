@@ -3,8 +3,9 @@
 # 🖥️ Study and Knowledge
 - I've been a programmer since I was 14 with Portugol, Pascal and PHP for the Web.
 - In my graduation I used C, C++, Python, Java, Javascript and PHP.
-- Professionally I worked with Django, Django Rest Framework, Javascript, Angular PHP and C#.
+- Professionally I worked with Django, Django Rest Framework, Javascript, Angular, PHP and C#.
 - I have knowledge of SQL and Firebird databases.
+- I study ReactJs, VueJs and FastAPI
 
 <div align="center">
   <a href="https://github.com/henriquejdc">
