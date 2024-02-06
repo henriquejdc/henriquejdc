@@ -7,11 +7,7 @@
 - I have knowledge of SQL and Firebird databases.
 - I study ReactJs, VueJs and FastAPI
 
-<div align="center">
-  <a href="https://github.com/henriquejdc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquejdc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquejdc&layout=compact&langs_count=7&theme=github_dark "/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Henrique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -35,8 +31,8 @@
   <a href = "mailto:riquejdc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henriquejdc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   [![card](https://github-readme-stats.vercel.app/api/pin/?username=henriquejdc&repo=Hanan-Grid-Circuit-Solution&theme=github_dark)](https://github.com/henriquejdc/Hanan-Grid-Circuit-Solution) 
   [![card](https://github-readme-stats.vercel.app/api/pin/?username=henriquejdc&repo=djangoRestFrame-UnitTests&theme=github_dark)](https://github.com/henriquejdc/djangoRestFrame-UnitTests) 
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=henriquejdc&repo=.NETWebAPI-Angular-EFCoreV2&theme=github_dark)](https://github.com/henriquejdc/.NETWebAPI-Angular-EFCoreV2) 
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=henriquejdc&repo=CouponProject&theme=github_dark)](https://github.com/henriquejdc/CouponProject) 
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=henriquejdc&repo=VerticalLogistics&theme=github_dark)](https://github.com/henriquejdc/VerticalLogistics) 
 </div>
